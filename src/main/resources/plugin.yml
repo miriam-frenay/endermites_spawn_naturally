@@ -1,0 +1,4 @@
+name: endermites_spawn_naturally
+version: '1.0'
+main: nl.followyourdreams.endermites_spawn_naturally.EndermitesSpawnNaturally
+api-version: '1.20'
