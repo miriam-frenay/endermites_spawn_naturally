@@ -8,4 +8,6 @@ Change `spawn-chance` in `config.yml` to the desired spawn ratio per endstone bl
 
 ## License
 
-This plugin is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+The source code of this plugin is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
+Created with [Minecraft Development for IntelliJ](https://plugins.jetbrains.com/plugin/8327-minecraft-development).
